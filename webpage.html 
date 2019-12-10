@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<h1> My Personal Webpage</h1>
+<p> Hello, my name is Theo Burquier, I'm 20 years old. Welcome to my own web page. I am currently in 3rd year of business school in London. my objective is to work in finance, more particularly in financial audit in Singapore. I live in annecy, a city located
+  between mountains and lake near Geneva in France. I am passionate about wakeboarding and aviation
+</p>
+<h2>Education</h2>
+<p><strong>I have studied in various sectors and countries. </strong></p>
+<ol>
+  <li> <em><strong>September 2014 - June 2017:</strong> </em>High school Saint michèle, Annecy haute Savoie</li>
+  <li> <em><strong>September 2017-June 2018:</strong> </em>Inseec Business School, Lyon</li>
+  <li>
+    <em> <strong>September 2019-December 2019:</strong> </em>Inseec Business School, London</li>
+</ol>
+
+<h2>Professional experience</h2>
+<p><strong> </strong></p>
+<ul>
+
+  <li><em><strong>Since 2016:</strong></em> Wakeboard instructor, Annecy,
+  </li>
+  <li><em><strong>january 2018:</strong></em> commercial assistant, import/export, Africa </li>
+  <li> <em><strong>2018-2019:</strong></em> Audit, KUKA robotics, Detroit, USA
+  </li>
+
+</ul>
+<h2>Skills</h2>
+<p><strong>My differents experiences in various sectors have allowed me to increase my knowledges and devloped my skills.</strong></p>
+<ul>
+  <li>Commercial awareness</li>
+  <li>Finanacial awarness</li>
+  <li>Negotiation and persuasion</li>
+  <li>Teamwork</li>
+  <li>Leadership</li>
+  <li>Ability to work under pressure</li>
+  <li>Perseverance and motivation</li>
+  <li>Confidence</li>
+  <li>IT (coding, pack office, photoshop..) </li>
+
+</ul>
+
+<h2>Languages</h2>
+<p><strong>My several travels, my professional experiences, my thirst for learning have allowed me to speak several languages:</strong> </p>
+<ol>
+  <li><em><strong>French,</em></strong> Native speaker 🇫🇷</li>
+  <li><em><strong>English,</em></strong> fluent 🇬🇧</li>
+  <li><em><strong>Spanish,</em></strong> A2 🇪🇸</li>
+
+  <h1>Théo burquier </h1>
+  <img classe="Profil-picture" src="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/15781670_1184094354973138_4984973547572640410_n.jpg?_nc_cat=105&_nc_ohc=-R_GcoJbYuUAQkHpugKk98KL6NYT_-4a34TyoDy9FBIAx0lp-wqb-fF8Q&_nc_ht=scontent-cdt1-1.xx&oh=d8356394ec36542932cea662b9b34143&oe=5E744FCC"
+    alt="Theo photo">
+
+  <img classe="Profil-picture" src="https://scontent-cdt1-1.xx.fbcdn.net/v/t31.0-8/1146825_10201067875472314_693_o.jpg?_nc_cat=102&_nc_ohc=FyW3AnpkrM8AQkW6kfNApRvlOQ4MXF6dHWFRwsVpdiUH5FV9-3mC6BhTA&_nc_ht=scontent-cdt1-1.xx&oh=609a820aee21ad400c0d266b41faf381&oe=5E7B9D0C"
+    alt="Theo photo">
+
+  <a href="https://www.facebook.com/tburquier"><img 
+                                                               class="profil" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/768px-Facebook_logo_36x36.svg.png" 
+     alt="logo Facebook"></a>
+
+  <a href="https://www.instagram.com/theo_burquier/"><img 
+     src="http://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png"
+     alt="Logo Instagram"></a>
+
+  <body style="background-color:#808080">
+
+  h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+ul {
+  list-style-type: square;
+}
+
+h3 {
+  color: MediumVioletRed;
+}
+
+.ForwardSlash {
+  color: Chocolate;
+}
+ul {
+  list-style-type: square;
+  
+}
+
+Profilings  {
+	width: 80px;
+	height: 80px;
+}
